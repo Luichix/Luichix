@@ -98,6 +98,7 @@
              <th ><p align="center">Next</p></th>
              <th ><p align="center">Node</p></th>
              <th ><p align="center">Jest</p></th>
+             <th><p align="center">Redux</p></th>
             </tr>
           </thead>
           <tbody>
@@ -156,6 +157,18 @@
                   <img
                     src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
                     alt="jest"
+                    width="60"
+                    height="60"
+                  />
+                </a>
+              </p>
+            </td>
+                         <td>
+              <p align="center">
+                <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+                  <img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+                    alt="redux"
                     width="60"
                     height="60"
                   />
@@ -280,10 +293,11 @@
     </div>
  <div align="center" >
         <table>
-         <caption>🔥Databases</caption>
+         <caption>🔥Databases and Query Language</caption>
           <thead>
             <tr>
              <th ><p align="center">MongoDB</p></th>
+             <th><p align="center">GraphQl</p></th>
              <th ><p align="center">MySQL</p></th>
             </tr>
           </thead>
@@ -301,6 +315,18 @@
         </a>
                 </p>
              </td>
+                         <td>
+              <p align="center">
+                <a href="https://graphql.org" target="_blank" rel="noreferrer">
+                  <img
+                    src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
+                    alt="graphql"
+                    width="60"
+                    height="60"
+                  />
+                </a>
+              </p>
+            </td>
              <td>
                <p align="center">
                         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -326,12 +352,6 @@
             <th>
               <p align="center">Git</p>
             </th>
-            <th>
-              <p align="center">GraphQl</p>
-            </th>
-            <th>
-              <p align="center">Redux</p>
-            </th>
           </tr>
         </thead>
         <tbody>
@@ -342,30 +362,6 @@
                   <img
                     src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
                     alt="git"
-                    width="60"
-                    height="60"
-                  />
-                </a>
-              </p>
-            </td>
-            <td>
-              <p align="center">
-                <a href="https://graphql.org" target="_blank" rel="noreferrer">
-                  <img
-                    src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-                    alt="graphql"
-                    width="60"
-                    height="60"
-                  />
-                </a>
-              </p>
-            </td>
-            <td>
-              <p align="center">
-                <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-                  <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-                    alt="redux"
                     width="60"
                     height="60"
                   />
