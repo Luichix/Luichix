@@ -99,6 +99,7 @@
              <th ><p align="center">Node</p></th>
              <th ><p align="center">Jest</p></th>
              <th><p align="center">Redux</p></th>
+             <th><p align="center">Expo</p></th>
             </tr>
           </thead>
           <tbody>
@@ -175,6 +176,22 @@
                 </a>
               </p>
             </td>
+            <td>
+                <p align="center">
+                  <a
+                    href="https://expo.dev/"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <img
+                      src="https://static.expo.dev/static/brand/square-512x512.png"
+                      alt="expo"
+                      width="60"
+                      height="60"
+                    />
+                  </a>
+                </p>
+             </td>
             </tr>
           </tbody>
         </table>
