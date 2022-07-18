@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Luis Reynaldo</h1>
 <h3 align="center">I'm just a programmer for fun</h3>
 
+<p align="center"> 😇 I'm currently working on React JS, but i´m also interested in other technologies.</p>
+<p align="center"> 😋 I´m currently learning: TypeScript and improving my skills with GraphQL. </p>
+<p align="center"> 🤯 Ask me about: HTML, CSS and JavaScript, React, NodeJS. </p>
+<p align="center"> 😎 How to reach me: drop me a line to <a href="mailto:luichix.rex@gmail.com" target="_blank" rel="noreferrer">luisreynaldo.pch@gmail.com</a> </p>
+<p align="center"> 🥺 Follow me...!</p>
+
+
 <h3 align="left">🌟Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/luis reynaldo pérez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis reynaldo pérez" height="30" width="40" /></a>
