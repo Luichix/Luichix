@@ -48,11 +48,21 @@
 
 <p >
  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+  <img src="https://github-readme-stats.vercel.app/api?username=Luichix&theme=react&hide_border=false&include_all_commits=false&count_private=true" alt="Luichix activity"/>
+ </a>
+</p>
+
+<p >
+ <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luichix&theme=react&hide_border=false" alt="Luichix activity"/>
  </a>
 </p>
 
-
+<p >
+ <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luichix&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Luichix activity"/>
+ </a>
+</p>
 
 ### ✍️ Random Dev Quote
 
