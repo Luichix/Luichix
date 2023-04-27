@@ -2,7 +2,7 @@
 <h4 align="center" >🌟 I'm just a programmer for fun 🌟</h3>
 
 ## 💫 About Me:
-😇 I'm currently working on React Native, but i´m also interested in other technologies.<br>😋 I´m currently learning: Django... <br>🤯 Ask me about: HTML, CSS and JavaScript, React, Node.<br>😎 How to reach me: drop me a line to <a href="mailto:luisreynaldo.pch@gmail.com" target="_blank" rel="noreferrer">luisreynaldo.pch@gmail.com</a><br>🥺 Follow me...!
+😇 I'm currently working on React JS with Next JS.<br>🤯 Ask me about: HTML, CSS and JavaScript, React, Node.<br>😎 How to reach me: drop me a line to <a href="mailto:luisreynaldo.pch@gmail.com" target="_blank" rel="noreferrer">luisreynaldo.pch@gmail.com</a><br>🥺 Follow me...!
 
 
 ### 🌐 Socials:
